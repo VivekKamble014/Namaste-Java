@@ -1,5 +1,5 @@
 /**
- * Pattern2
+ * Pattern2 palindromic pattern of numbers
  */
 public class Pattern2 {
 

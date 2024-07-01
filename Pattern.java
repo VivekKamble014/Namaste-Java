@@ -1,5 +1,5 @@
 /**
- * Pattern
+ * Pattern number pyramid 
  */
 public class Pattern {
 
